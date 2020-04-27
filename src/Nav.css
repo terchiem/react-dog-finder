@@ -1,0 +1,9 @@
+.Nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.active {
+  font-weight: 900;
+  color: #000;
+}
